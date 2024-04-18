@@ -1,7 +1,6 @@
 # Stochastic Policy Gradient Methods: Improved Sample Complexity for Fisher-non-degenerate Policies
 
-The repo hosts the code for the experiments section in paper
-This repository contains the code used in the experiments section of the paper ["Stochastic Policy Gradient Methods: Improved Sample Complexity for Fisher-non-degenerate Policies"](https://proceedings.mlr.press/v202/fatkhullin23a/fatkhullin23a.pdf) by Ilyas Fatkhullin, Anas Barakat, Anastasia Kireeva, Niao He (2023).
+The repo hosts the code for the experiments section in paper ["Stochastic Policy Gradient Methods: Improved Sample Complexity for Fisher-non-degenerate Policies"](https://proceedings.mlr.press/v202/fatkhullin23a/fatkhullin23a.pdf) by Ilyas Fatkhullin, Anas Barakat, Anastasia Kireeva, Niao He (2023).
 
 This code contains implementations for N-PG-IGT, (N)-HARPG, and Vanilla-PG.
 
